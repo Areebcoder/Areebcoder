@@ -1,70 +1,50 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/areebch-dev/areebch-dev/main/assets/banner.png" alt="Muhammad Areeb Mujahid Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Areebcoder/Areebcoder/main/ChatGPT%20Image%20Jul%2024%2C%202026%2C%2003_40_52%20PM.png" alt="Muhammad Areeb Mujahid Banner" width="100%"/>
 </p>
 
-<h1 align="center">Muhammad Areeb Mujahid</h1>
-
-<h3 align="center">Front-End Engineer • React • Next.js • Angular • AI Prompt Engineer</h3>
-
-<p align="center">
-Building scalable, accessible and high-performance web applications with modern technologies and AI-powered workflows.
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=MUHAMMAD+AREEB+MUJAHID;Front-End+Engineer;React+%7C+Next.js+%7C+Angular;AI+Prompt+Engineer" alt="Typing SVG"/>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=Building+Modern+Web+Applications;React+%7C+Next.js+%7C+Angular;Clean+UI+%26+Great+UX;AI+Prompt+Engineering;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=17&duration=4000&pause=1500&color=64748B&center=true&vCenter=true&width=750&lines=Building+scalable%2C+accessible+web+applications;Modern+UI%2FUX+%26+AI-powered+workflows;Turning+complex+ideas+into+clean+experiences;Open+to+remote%2C+freelance+%26+full-time+roles" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=areebch-dev&label=Profile+Views&color=0e75b6&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=areebch-dev&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
-  </a>
-  <a href="https://github.com/areebch-dev?tab=followers">
-    <img src="https://img.shields.io/github/followers/areebch-dev?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub followers"/>
-  </a>
-  <a href="https://github.com/areebch-dev">
-    <img src="https://img.shields.io/github/stars/areebch-dev?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=0e75b6" alt="GitHub stars"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=areebch-dev&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge&base=1000" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/areebch-dev?label=FOLLOWERS&style=for-the-badge&color=2563EB" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/areebch-dev?affiliations=OWNER%2CCOLLABORATOR&label=TOTAL+STARS&style=for-the-badge&color=2563EB" alt="Stars"/>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/muhammad-areeb-ch">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:codebyareeb@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/areebch-dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <a href="https://linkedin.com/in/muhammad-areeb-ch"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:codebyareeb@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/areebch-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://instagram.com/areeb9623"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0EA5E9&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=120&section=header" width="100%"/>
 
 ---
 
 ## 🚀 About Me
 
-I’m **Muhammad Areeb Mujahid**, a passionate **Front-End Engineer** focused on building modern, scalable, and user-centric web applications. I specialize in **React, Next.js, and Angular**, and I enjoy combining clean UI engineering with **AI Prompt Engineering** to create smarter digital experiences.
+I'm **Muhammad Areeb Mujahid**, a **Front-End Engineer** who architects scalable, accessible, and high-performance web applications. I specialize in **React, Next.js, and Angular**, and love combining clean UI engineering with **AI Prompt Engineering** to build smarter digital products.
 
-* ⚛️ Building production-ready applications with **React & Next.js**
-* 🅰️ Developing scalable interfaces using **Angular**
-* 🎨 Crafting **responsive, accessible, and performance-optimized UIs**
-* 🤖 Exploring **AI workflows, automation, and Prompt Engineering**
-* 🌍 Open to **remote, freelance, and full-time opportunities**
+- ⚛️ Building production-ready applications with **React & Next.js**
+- 🅰️ Developing scalable interfaces using **Angular**
+- 🎨 Crafting **responsive, accessible, and performance-optimized UIs**
+- 🤖 Exploring **AI workflows, automation, and Prompt Engineering**
+- 🌍 Open to **remote, freelance, and full-time opportunities**
 
----
-
-## 💼 Experience
-
-### Front-End Developer Intern — TEYZIX CORE *(2026 – Present)*
-
-* Built responsive and high-performance web applications using **Next.js**
-* Designed reusable UI components with **Tailwind CSS**
-* Improved **Lighthouse performance and accessibility scores**
-* Collaborated remotely in a modern development workflow
-* Focused on maintainable code architecture and user experience
+<p align="center">
+  <img src="https://img.shields.io/badge/Current_Status-Open_to_Work-2563EB?style=flat-square" alt="Open to work"/>
+  <img src="https://img.shields.io/badge/Remote_Ready-Available-22C55E?style=flat-square" alt="Remote ready"/>
+  <img src="https://img.shields.io/badge/Relocation_Willing-Yes-22C55E?style=flat-square" alt="Relocation willing"/>
+</p>
 
 ---
+
 
 ## 🛠️ Tech Stack
 
@@ -75,105 +55,73 @@ I’m **Muhammad Areeb Mujahid**, a passionate **Front-End Engineer** focused on
 <p align="center">
   <img src="https://img.shields.io/badge/Prompt%20Engineering-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
   <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-<table align="center">
-<tr>
-<td width="33%">
-
-### 🌐 Nexify SaaS
-
-Modern SaaS landing page built with **Next.js, Tailwind CSS, and Framer Motion** featuring smooth animations and responsive design.
-
-</td>
-<td width="33%">
-
-### 📊 Assistfy Dashboard
-
-Interactive analytics dashboard with **authentication, charts, and responsive UI components** for a professional admin experience.
-
-</td>
-<td width="33%">
-
-### 🎨 Portfolio Website
-
-Minimal and performance-focused developer portfolio optimized for **SEO, accessibility, and fast loading**.
-
-</td>
-</tr>
-</table>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=areebch-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areebch-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages"/>
+ <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=areebch-dev&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=areebch-dev&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=areebch-dev&theme=radical">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=areebch-dev&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=areebch-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB" alt="GitHub streak"/>
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=areebch-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=areebch-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2563EB&line=2563EB&point=2563EB" alt="Activity graph"/>
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🐍 Dynamic Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=areebch-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" alt="GitHub trophies"/>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 </p>
 
----
-
-## 🌱 Currently Learning
-
-* Advanced React Patterns
-* Next.js 16 & Server Components
-* TypeScript for scalable applications
-* Performance optimization techniques
-* AI automation and workflow orchestration
-* Web accessibility (WCAG) best practices
 
 ---
 
-## 🎯 2026 Goals
+## 💬 Random Dev Quote
 
-* 🚀 Land a **Front-End Engineer role**
-* 🌍 Contribute to **Open Source projects**
-* 💼 Build and launch **SaaS products**
-* 🤖 Integrate **AI into real-world applications**
-* 📚 Continuously improve software engineering skills
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
+</p>
+
 
 ---
 
 ## ⚡ Fun Fact
 
-I enjoy turning **complex ideas into clean and intuitive user experiences** while continuously exploring how **AI can improve development workflows and productivity**.
+Main complex ideas ko clean, intuitive user experiences mein badalna enjoy karta hun — aur saath hi yeh explore karta rehta hun ke AI development workflows aur productivity ko kaise behtar bana sakta hai.
 
 ---
 
-## 📫 Let’s Connect
+## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/muhammad-areeb-ch">LinkedIn</a> •
-  <a href="mailto:codebyareeb@gmail.com">Email</a> •
-  <a href="https://github.com/areebch-dev">GitHub</a>
+  <a href="https://linkedin.com/in/muhammad-areeb-ch"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:codebyareeb@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/areebch-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://instagram.com/areeb9623"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Resume-8B5CF6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <p align="center">
-  <i>“Build for people. Optimize for performance. Never stop learning.”</i>
+  <i>"Engineer experiences, not just interfaces.<br/>Build for people. Optimize for performance. Never stop learning."</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0F172A&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer" width="100%"/>
